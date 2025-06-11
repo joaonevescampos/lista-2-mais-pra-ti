@@ -1,4 +1,4 @@
-# lista-2-mais-pra-ti
+# Lista 02
 
 Seção 1: Estruturas de Controle Avançadas
 1. Validação de Datas

@@ -1,3 +1,10 @@
+# Como executar os exercícios no seu computador?
+
+1) Iniciar o git na sua pasta de destino:  `git init -y`
+2) Clone o projeto para a sua máquina: `git clone https://github.com/joaonevescampos/lista-2-mais-pra-ti`
+3) Instalar as dependências: e em seguida: `npm install`
+4) Executar cada exercício no terminal dentro da pasta do projeto: `node ex01.js`, por exemplo.
+
 # Lista 02
 
 Seção 1: Estruturas de Controle Avançadas
